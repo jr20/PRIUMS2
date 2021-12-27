@@ -1,2 +1,2 @@
 # Desktop-App-with-Python
-Desktop aplikacija za predmet PIUMS2.
+Desktop aplikacija za predmet PRIUMS2.
